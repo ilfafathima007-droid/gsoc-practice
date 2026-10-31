@@ -11,5 +11,5 @@ My learning areas include:
 - C programming
 - Data structures and algorithms
 - Open-source contribution workflows
-- Reading and understanding existing codebases
+- Reading and understanding existing codebases.
 This section will be updated as I progress.
